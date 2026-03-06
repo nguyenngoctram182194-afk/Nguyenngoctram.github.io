@@ -1,1 +1,23 @@
-
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <title>Kiểm tra 15 phút HK2 lần 1</title>
+    </head>
+<body> 
+    <h1>Họ tên: Nguyễn Ngọc Trâm-Lớp 12a4</h1>
+    <h1>Chuẩn bị đi du lịch?Cẩm nang từ A-Z giúp bạn có kỳ nghỉ TRỌN VẸN</h1>
+    <p>Đi du lịch không chỉ là niềm đam mê của những tín đồ xê dịch mà bất kỳ ai cũng thích trải nghiệm này.
+       Khám phá những vùng đất mới mang lại rất nhiều điều thú vị,giúp cho cuộc sống trở nên ý nghĩa hơn</p>
+    <h2>Mục lục</h2>
+    <ul>1.Tìm hiểu chi tiết lợi ích của việc đi du lịch</ul>
+    <ul>2.Du lịch viet nam?</ul>
+        <li>Đi du lịch Nha Trang</li>
+        <li>Du lịch Phú Quốc</li>
+        <li>Du lịch gần Sài Gòn</li>
+        <li>Đi du lịch Vũng Tàu</li>
+        <li>Đi du lịch Đà Lạt</li>
+    <ul>3.Du lịch nuoc ngoai</ul>
+       <li>Đi du lịch Hàn Quốc</li>
+       <li>Đi du lịch Mỹ</li>
+    <ul>4.Kinh nghiệm đi du lịch,hành lý đi du lịch nên mang gì?</ul>
+    <h3>BẢNG GIÁ</h3>
